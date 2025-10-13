@@ -26,3 +26,5 @@ mnemonicOpt.foreach { mnemonic =>
 ```
 
 Overall, the `org.alephium.crypto.wallet` package provides a convenient and secure way to generate and manipulate HD wallets using the BIP32 standard and mnemonic phrases. It can be used in conjunction with other cryptocurrency libraries to implement wallet functionality in a larger project. For example, it could be used to generate a new address for each transaction in a cryptocurrency wallet application.
+
+<!-- Auto-update: 2025-10-14T04:13:08.529972 -->
