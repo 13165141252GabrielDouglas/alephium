@@ -40,3 +40,5 @@ for (config <- configArray) {
 ```
 
 Overall, this folder contains essential components for the Alephium project's Ralph compiler, enabling users to compile smart contracts and scripts, configure the compiler, and interact with the Alephium blockchain through a command-line interface.
+
+<!-- Auto-update: 2025-10-14T13:15:18.913280 -->
