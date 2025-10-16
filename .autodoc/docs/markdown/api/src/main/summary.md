@@ -32,3 +32,5 @@ The `OpenApiWriters.scala` file generates OpenAPI documentation from the Alephiu
 Finally, the `UtilJson.scala` file provides various implicit conversions and definitions for JSON serialization and deserialization of certain types used in the Alephium project.
 
 In summary, the code in this folder plays a vital role in defining the Alephium project's API, providing a well-defined interface for developers to interact with the Alephium blockchain and build applications on top of it.
+
+<!-- Auto-update: 2025-10-16T11:43:07.312188 -->
